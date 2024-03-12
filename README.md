@@ -5,3 +5,5 @@ JackStudio Music 是一個以訂閱獲得影音、
 # 介紹
 ![image](https://github.com/BohowYeh/website-JackStudioMusic/assets/151061264/34627a6b-d3ca-46df-b759-f0824b0d49b1)
 
+# OTHERS
+>路徑有改，下載時要把others資料夾裡的檔案移到上一層
