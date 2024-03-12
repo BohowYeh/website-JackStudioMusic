@@ -1,0 +1,106 @@
+body{
+	overflow-x: hidden;
+}
+
+header{
+	position: fixed;
+	top: 0px;
+	bottom: 0px;
+	width: 250px;
+	margin-left: -250px;
+	background-color: #171717;
+	z-index:1040;
+}
+
+.img-logo{
+	margin-left: 5px;
+	width: 150px;
+	height: 50px;
+	display: block;
+	margin: auto;
+}
+
+.img-login{
+	height: 50px;
+}
+
+.li-center{
+	margin-left: 45px;
+	line-height: 50px;
+}
+
+header ul li a{
+	color: #818181;
+	text-decoration: none;
+}
+
+header ul li a:hover{
+	color: #F1F1F1;
+	text-decoration: none;
+}
+
+.close-button{
+	margin-left: 150px;
+	margin-top: 20px;
+	color: #818181;
+}
+
+.close-button:hover{
+	color: #F1F1F1;
+}
+
+button{
+	background-color: rgb(0,0,0,0%);
+	border: none;
+	margin-right: 50px;
+}
+
+button:focus{
+	outline: none;
+}
+
+.title-font{
+	font-size: 60pt;
+	letter-spacing:10px;
+	line-height: 150px;
+	color: #00baff;
+	font-weight:bold;
+}
+
+footer{
+	background-color: #272727;
+	text-align: center;
+	color: #9D9D9D;
+}
+
+footer p{
+	line-height: 40px;
+	margin-bottom: 0px;
+}
+
+.box-shadow{
+	box-shadow: 3px 3px 9px blue;
+}
+
+.BGM_h1{
+	color: blue;
+}
+
+.button{
+	background-color: blue;
+	color: white;
+	padding: 20px 50px 20px 50px;
+	border: none;
+	margin-right: 50px;
+}
+
+.card_BGM{
+	height: 250px !important;
+	width: 600px !important;
+	margin: auto;
+	padding-left: 20px;
+}
+
+li{
+	list-style: none;
+}
