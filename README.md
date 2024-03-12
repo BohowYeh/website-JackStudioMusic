@@ -7,3 +7,4 @@ JackStudio Music 是一個以訂閱獲得影音、
 
 # OTHERS
 >路徑有改，下載時要把others資料夾裡的檔案移到上一層
+>登陸頁面路徑:Login_v1資料夾 網站主頁路徑:others->index.html
